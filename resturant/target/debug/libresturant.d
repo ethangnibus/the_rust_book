@@ -1,0 +1,1 @@
+/Users/ebs/projects/resturant/target/debug/libresturant.rlib: /Users/ebs/projects/resturant/src/front_of_house/hosting.rs /Users/ebs/projects/resturant/src/front_of_house.rs /Users/ebs/projects/resturant/src/lib.rs
